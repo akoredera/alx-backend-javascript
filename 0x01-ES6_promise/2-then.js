@@ -1,5 +1,5 @@
 /* eslint-disable */
-export default function ghandleResponseFromAPI(promise) {
+export default function handleResponseFromAPI(promise) {
   promise
     .then(() => ({ status: 200, body: 'success' }))
     .catch(() => Error())
