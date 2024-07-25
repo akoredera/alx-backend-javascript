@@ -8,5 +8,5 @@ export default function initializeRooms() {
     ClassRoom { _maxStudentsSize: ${room1._maxStudentsSize} },
     ClassRoom { _maxStudentsSize: ${room2._maxStudentsSize} },
     ClassRoom { _maxStudentsSize: ${room3._maxStudentsSize} }
-  ]`;
+]`;
 }
